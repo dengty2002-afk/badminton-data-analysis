@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+*.dvc
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Models (large files tracked by DVC)
+models/checkpoints/*.pt
+models/checkpoints/*.pth
+models/checkpoints/*.onnx
+models/checkpoints/*.bin
+
+# Data (tracked by DVC, not Git)
+data/raw/*.mp4
+data/raw/*.mkv
+data/raw/*.avi
+data/processed/*.mp4
+data/external/*.parquet
+outputs/datasets/*.parquet
+
+# Temporary / cache
+*.tmp
+*.temp
+tmp/
+temp/
+.cache/
+
+# Logs
+*.log
+logs/
+
+# Prefect
+~prefect/
+
+# Parquet outputs (tracked by DVC)
+*.parquet
+
+# Video outputs
+*.mp4
+*.mkv
+*.avi
+
+# Exceptions: keep small test fixtures
+!tests/fixtures/*.parquet
+!data/fixtures/*.mp4
+!tests/fixtures/*.mp4

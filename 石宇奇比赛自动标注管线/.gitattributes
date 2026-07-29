@@ -1,0 +1,65 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Python
+*.py text eol=lf
+*.pyi text eol=lf
+
+# Configuration files
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.cfg text eol=lf
+*.ini text eol=lf
+*.json text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.rst text eol=lf
+*.txt text eol=lf
+
+# Web
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.svg text eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Docker
+Dockerfile text eol=lf
+.dockerignore text eol=lf
+
+# Git
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Binary files (do not diff, store in Git LFS or DVC)
+*.mp4 binary -diff
+*.mkv binary -diff
+*.avi binary -diff
+*.mov binary -diff
+*.pt binary -diff
+*.pth binary -diff
+*.onnx binary -diff
+*.bin binary -diff
+*.png binary -diff
+*.jpg binary -diff
+*.jpeg binary -diff
+*.gif binary -diff
+*.parquet binary -diff
+*.db binary -diff
+*.sqlite binary -diff
+*.zip binary -diff
+*.tar binary -diff
+*.gz binary -diff
+
+# DVC-tracked large files
+*.dvc linguist-language=YAML
+.dvc/config text eol=lf
+.dvc/.gitignore text eol=lf
