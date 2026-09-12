@@ -22,7 +22,7 @@
 
 ## 快速开始：不下载模型
 
-建议 Python 3.12。以下命令在项目根目录运行：
+当前完整管线支持 Windows、Python 3.12；批处理锁使用 Windows API，Linux 尚未适配。以下命令在项目根目录运行：
 
 ```powershell
 py -3.12 -m venv .venv-model

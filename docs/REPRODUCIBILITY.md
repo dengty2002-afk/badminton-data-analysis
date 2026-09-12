@@ -5,7 +5,7 @@ This source snapshot separates the working application from local videos, pretra
 ## Three levels of use
 
 1. **Source and synthetic tests:** install the base package, run `examples/evaluate_hits.py` and Python tests. No videos or pretrained models are required. One optional weight-integrity integration test is skipped until its weights are present.
-2. **Inference on your videos:** install the GPU runtime, fetch the manifest-pinned models, register your video and create/accept court calibration. The repository includes the minimal licensed vendor runtime. A compatible NVIDIA driver is required for CUDA execution.
+2. **Inference on your videos:** use Windows, install the GPU runtime, fetch the manifest-pinned models, register your video and create/accept court calibration. The repository includes the minimal licensed vendor runtime. A compatible NVIDIA driver is required for CUDA execution. Batch locking currently uses Windows `msvcrt`; Linux batch execution is not supported.
 3. **Historical result reproduction:** restore the exact original recordings and per-video registrations/features/Gold expected by the experiment scripts. Those input files are not included. Aggregate result JSON files are evidence snapshots, not sufficient input to replay all experiments.
 
 ## SwingNet

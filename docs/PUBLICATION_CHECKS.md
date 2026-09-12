@@ -16,6 +16,6 @@ Not claimed:
 
 - No new BST accuracy evaluation, video benchmark, GPU inference or 24-match research rerun.
 - No full frontend runtime/build validation or website deployment.
-- No universal cross-platform guarantee. GitHub Actions is configured to run the minimal Python tests on Linux after push; local results above were obtained on Windows.
+- No cross-platform guarantee. The first Linux Actions run exposed the batch runner's existing dependency on Windows `msvcrt`. CI now runs the same complete test suite on `windows-latest`, matching the supported platform; Linux batch execution has not been ported.
 
 The source checkout excludes original match videos, model binaries, raw frame data, virtual environments, caches, and local input manifests. Published numerical experiment results retain their previously documented retrospective and measurement-error limitations.
