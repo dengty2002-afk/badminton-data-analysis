@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "pipeline_version": "hit-rules-0.2.0",
+  "source_frames": {
+    "start": 280,
+    "end_exclusive": 516
+  },
+  "calibration_version": 1,
+  "events": [
+    {
+      "id": "EVT-M00325",
+      "rally": "Rally 01",
+      "time": 10.833333333333334,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.605,
+      "trajectory": 0.649,
+      "wrist": 0.623,
+      "pose": 0.41,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00333",
+      "rally": "Rally 01",
+      "time": 11.1,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.573,
+      "trajectory": 0.664,
+      "wrist": 0.607,
+      "pose": 0.185,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00347",
+      "rally": "Rally 01",
+      "time": 11.566666666666666,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.827,
+      "trajectory": 0.879,
+      "wrist": 0.93,
+      "pose": 0.421,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00358",
+      "rally": "Rally 01",
+      "time": 11.933333333333334,
+      "hitter": "B",
+      "hitter_side": "lower",
+      "stroke": "待标注",
+      "confidence": 0.606,
+      "trajectory": 0.709,
+      "wrist": 0.595,
+      "pose": 0.277,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00394",
+      "rally": "Rally 01",
+      "time": 13.133333333333333,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.652,
+      "trajectory": 0.496,
+      "wrist": 0.871,
+      "pose": 0.71,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00411",
+      "rally": "Rally 01",
+      "time": 13.7,
+      "hitter": "B",
+      "hitter_side": "lower",
+      "stroke": "待标注",
+      "confidence": 0.679,
+      "trajectory": 0.891,
+      "wrist": 0.54,
+      "pose": 0.251,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00422",
+      "rally": "Rally 01",
+      "time": 14.066666666666666,
+      "hitter": "B",
+      "hitter_side": "lower",
+      "stroke": "待标注",
+      "confidence": 0.798,
+      "trajectory": 0.662,
+      "wrist": 0.921,
+      "pose": 1.0,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00446",
+      "rally": "Rally 01",
+      "time": 14.866666666666667,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.811,
+      "trajectory": 0.863,
+      "wrist": 0.773,
+      "pose": 0.713,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00456",
+      "rally": "Rally 01",
+      "time": 15.2,
+      "hitter": "A",
+      "hitter_side": "upper",
+      "stroke": "待标注",
+      "confidence": 0.698,
+      "trajectory": 0.866,
+      "wrist": 0.56,
+      "pose": 0.422,
+      "status": "unreviewed"
+    },
+    {
+      "id": "EVT-M00470",
+      "rally": "Rally 01",
+      "time": 15.666666666666666,
+      "hitter": "B",
+      "hitter_side": "lower",
+      "stroke": "待标注",
+      "confidence": 0.804,
+      "trajectory": 0.844,
+      "wrist": 0.775,
+      "pose": 0.729,
+      "status": "unreviewed"
+    }
+  ]
+}

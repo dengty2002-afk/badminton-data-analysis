@@ -1,0 +1,7 @@
+{
+  "strict_state_dict_load": true,
+  "state_tensors": 322,
+  "parameters": 5374722,
+  "device": "cuda",
+  "torch": "2.13.0+cu130"
+}

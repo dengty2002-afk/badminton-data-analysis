@@ -1,0 +1,15 @@
+# Ultralytics inference dependencies, excluding opencv-python because the
+# contrib headless build is already installed by requirements-models-onnx.txt.
+pyyaml==6.0.3
+requests==2.34.2
+psutil==7.2.2
+polars==1.43.2
+nvidia-ml-py==13.610.43
+ultralytics-thop==2.1.6
+matplotlib==3.11.1
+positional-encodings==6.0.3
+torchinfo==1.8.0
+gdown==5.2.0
+
+# Then install the application package without replacing OpenCV/PyTorch:
+#   pip install --no-deps ultralytics==8.4.116

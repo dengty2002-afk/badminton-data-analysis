@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+# Markdown hard line breaks and imported source formatting are intentional.
+*.md whitespace=-blank-at-eol
+vendor/** whitespace=-blank-at-eol
+experiments/*/upstream/** whitespace=-blank-at-eol

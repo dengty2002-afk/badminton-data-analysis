@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "default_model": "bst_0_seq100_fine_serial2.pt",
+  "models": [
+    {
+      "file": "bst_0_seq100_fine_serial2.pt",
+      "google_drive_id": "1_H5VrhbT5Q8ereNu6UAFhe6M-i0uaPpW",
+      "sha256": "428d6d228df47be1738540e2842835d22ff9ac25a6b44f8e718e4bd63e3e2aff",
+      "bytes": 7367992,
+      "architecture": "BST_0",
+      "sequence_length": 100,
+      "output_classes": 35,
+      "pose_style": "JnB_bone",
+      "upstream_name": "bst_0_JnB_bone_between_2_hits_with_max_limits_seq_100_2.pt",
+      "reported_test_accuracy": 0.760,
+      "reported_macro_f1": 0.691,
+      "reported_top2_accuracy": 0.930,
+      "reported_domain": "ShuttleSet"
+    },
+    {
+      "file": "bst_0_seq100_merged_serial2.pt",
+      "google_drive_id": "1OA63gWshMGO5WT2HIshjwMAL1T5jNjIa",
+      "sha256": "c4d41bb8248f0f79f7a7182ac2b38ec021ef51edd4978dfa31d17291b530afc8",
+      "bytes": 7351082,
+      "architecture": "BST_0",
+      "sequence_length": 100,
+      "output_classes": 25,
+      "pose_style": "JnB_bone",
+      "upstream_name": "bst_0_JnB_bone_between_2_hits_with_max_limits_seq_100_merged_2.pt",
+      "reported_domain": "ShuttleSet merged"
+    }
+  ],
+  "source": "https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer",
+  "license": "MIT"
+}

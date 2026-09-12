@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "badminton-data-analysis"
+version = "0.1.0"
+description = "Local badminton video, stroke-event and match-level research pipeline"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "numpy==1.26.4",
+  "opencv-contrib-python-headless==4.10.0.84",
+  "polars==1.43.2",
+]
+
+[project.optional-dependencies]
+research = ["matplotlib==3.11.1"]
+
+[tool.setuptools.packages.find]
+include = ["badminton_pipeline*"]

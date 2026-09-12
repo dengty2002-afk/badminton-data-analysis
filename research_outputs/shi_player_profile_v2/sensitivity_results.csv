@@ -1,0 +1,55 @@
+﻿test,metric,metric_label,variant,base_paired_delta,variant_paired_delta,direction_consistent,threshold_ok,status,detail
+S1,smash_share,杀球倾向,pooled_events,-0.00273000269643928,-0.012864230691426,1,1,PASS,比赛等权与合并事件口径
+S1,drop_share,吊球倾向,pooled_events,0.00389816241361574,0.00619908428365166,1,1,PASS,比赛等权与合并事件口径
+S1,net_share,网前倾向,pooled_events,-0.00651184035309584,0.0143078688577565,0,1,FAIL,比赛等权与合并事件口径
+S1,drive_share,抽挡倾向,pooled_events,0.00806373561759039,0.01492287402831,1,1,PASS,比赛等权与合并事件口径
+S1,backcourt_tendency,后场击球倾向,pooled_events,-0.0144431859173753,0.0340155808974592,0,1,FAIL,比赛等权与合并事件口径
+S1,event_rate_proxy,事件频率代理,pooled_events,0.0394127661943512,0.0922610662051943,1,0,FAIL,比赛等权与合并事件口径
+S1,spatial_diversity,空间使用多样性,pooled_events,0.0188922410947874,0.017605559568352,1,1,PASS,比赛等权与合并事件口径
+S1,sequence_predictability,序列可预测性熵代理,pooled_events,-0.00136561046087933,0.00767373929157156,0,1,FAIL,比赛等权与合并事件口径
+S1,early_active_share,前三拍主动类别比例,pooled_events,0.0757349263034219,0.077881146165464,1,1,PASS,比赛等权与合并事件口径
+S1,attack_entry_proxy,进攻进入代理,pooled_events,0.00758299393306374,-0.00272248900433514,0,1,FAIL,比赛等权与合并事件口径
+S1,terminal_attack_event_share,终局后场进攻事件比例,pooled_events,-0.00702773705471893,-0.00997652582159625,1,1,PASS,比赛等权与合并事件口径
+S1,net_continuation_proxy,网前连续使用代理,pooled_events,-0.0150930704705359,0.0142848784199613,0,1,FAIL,比赛等权与合并事件口径
+S1,defense_to_attack_proxy,防守转攻代理,pooled_events,-0.0066284963446247,-0.00912725977059481,1,1,PASS,比赛等权与合并事件口径
+S2,smash_share,杀球倾向,unknown_as_seventh,-0.00273000269643928,-0.0029367650184008,1,1,PASS,unknown保留为第七类
+S2,drop_share,吊球倾向,unknown_as_seventh,0.00389816241361574,0.00288995478541246,1,1,PASS,unknown保留为第七类
+S2,net_share,网前倾向,unknown_as_seventh,-0.00651184035309584,-0.00507146886450286,1,1,PASS,unknown保留为第七类
+S2,drive_share,抽挡倾向,unknown_as_seventh,0.00806373561759039,0.00523878380401788,1,1,PASS,unknown保留为第七类
+S2,sequence_predictability,序列可预测性熵代理,unknown_as_seventh,-0.00136561046087933,-0.00202533208351319,1,1,PASS,unknown保留为第七类
+S3,long_rally_share_10,长回合暴露（≥10拍）,threshold_8,0,0,1,1,PASS,辅助环境指标，不进入能力结论
+S3,long_rally_share_10,长回合暴露（≥10拍）,threshold_12,0,0,1,1,PASS,辅助环境指标，不进入能力结论
+S4,spatial_diversity,空间使用多样性,court_width_div_8,0.0188922410947874,0.0138780397962203,1,1,PASS,横向分箱阈值
+S4,spatial_diversity,空间使用多样性,court_width_div_4,0.0188922410947874,0.011237718599664,1,1,PASS,横向分箱阈值
+S5,sequence_predictability,序列可预测性熵代理,raw_stroke_sequence,-0.00136561046087933,-0.00821183976500551,1,1,PASS,原始球种序列
+S5,sequence_predictability,序列可预测性熵代理,leave_one_match_out_next_class_accuracy,-0.00136561046087933,-0.0136865364318254,1,1,PASS,以其余比赛训练最频繁转移规则并预测留出比赛
+S6,attack_entry_proxy,进攻进入代理,attack_plus_rush,0.00758299393306374,0.0229947421780933,1,1,PASS,宽口径进攻状态
+S6,terminal_attack_event_share,终局后场进攻事件比例,attack_plus_rush,-0.00702773705471893,-0.0125375310272399,1,1,PASS,宽口径进攻状态
+S6,defense_to_attack_proxy,防守转攻代理,attack_plus_rush,-0.0066284963446247,0.00580330088108609,0,1,FAIL,宽口径进攻状态
+S7,spatial_diversity,空间使用多样性,complete_case_n=23,0.0188922410947874,0.018273573166421,1,1,PASS,双方每场有效率≥30%且有效落点≥50
+S8,smash_share,杀球倾向,opponent_cluster_bootstrap,-0.00273000269643928,-0.00273000269643928,1,0,CAUTION,"cluster_CI=[-0.023829254836229417, 0.018185521554082734]"
+S8,drop_share,吊球倾向,opponent_cluster_bootstrap,0.00389816241361574,0.00389816241361574,1,0,CAUTION,"cluster_CI=[-0.0035002246955954507, 0.011279751911168302]"
+S8,net_share,网前倾向,opponent_cluster_bootstrap,-0.00651184035309584,-0.00651184035309584,1,0,CAUTION,"cluster_CI=[-0.03418152717111015, 0.024867715661237057]"
+S8,drive_share,抽挡倾向,opponent_cluster_bootstrap,0.00806373561759039,0.00806373561759039,1,0,CAUTION,"cluster_CI=[-0.022354019715228608, 0.035603792307444586]"
+S8,backcourt_tendency,后场击球倾向,opponent_cluster_bootstrap,-0.0144431859173753,-0.0144431859173753,1,0,CAUTION,"cluster_CI=[-0.15505403202495394, 0.11899583846183229]"
+S8,event_rate_proxy,事件频率代理,opponent_cluster_bootstrap,0.0394127661943512,0.0394127661943512,1,0,CAUTION,"cluster_CI=[-0.08697475304224088, 0.1522059039498898]"
+S8,spatial_diversity,空间使用多样性,opponent_cluster_bootstrap,0.0188922410947874,0.0188922410947874,1,0,CAUTION,"cluster_CI=[-0.005710446823235658, 0.04329905721304089]"
+S8,sequence_predictability,序列可预测性熵代理,opponent_cluster_bootstrap,-0.00136561046087933,-0.00136561046087933,1,0,CAUTION,"cluster_CI=[-0.018930660260596265, 0.017854157130516118]"
+S8,early_active_share,前三拍主动类别比例,opponent_cluster_bootstrap,0.0757349263034219,0.0757349263034219,1,1,PASS,"cluster_CI=[0.014253533903483568, 0.14172919689039665]"
+S8,attack_entry_proxy,进攻进入代理,opponent_cluster_bootstrap,0.00758299393306374,0.00758299393306374,1,0,CAUTION,"cluster_CI=[-0.033982376706073354, 0.04562778644329466]"
+S8,terminal_attack_event_share,终局后场进攻事件比例,opponent_cluster_bootstrap,-0.00702773705471893,-0.00702773705471893,1,0,CAUTION,"cluster_CI=[-0.0229642136162784, 0.007902751042834362]"
+S8,net_continuation_proxy,网前连续使用代理,opponent_cluster_bootstrap,-0.0150930704705359,-0.0150930704705359,1,0,CAUTION,"cluster_CI=[-0.06457629972246887, 0.03354613736830065]"
+S8,defense_to_attack_proxy,防守转攻代理,opponent_cluster_bootstrap,-0.0066284963446247,-0.0066284963446247,1,0,CAUTION,"cluster_CI=[-0.0613305707707666, 0.05408152038991655]"
+S9,smash_share,杀球倾向,leave_one_match_out,-0.00273000269643928,-0.00273000269643928,0,0,FAIL,"range=[-0.00755318165981233, 0.00179484758401331]"
+S9,drop_share,吊球倾向,leave_one_match_out,0.00389816241361574,0.00389816241361574,1,1,PASS,"range=[0.00215529530096797, 0.00589409107165605]"
+S9,net_share,网前倾向,leave_one_match_out,-0.00651184035309584,-0.00651184035309584,0,0,FAIL,"range=[-0.0166555965312861, 1.45283439519434e-05]"
+S9,drive_share,抽挡倾向,leave_one_match_out,0.00806373561759039,0.00806373561759039,1,1,PASS,"range=[0.00338991589674163, 0.0123701179199654]"
+S9,backcourt_tendency,后场击球倾向,leave_one_match_out,-0.0144431859173753,-0.0144431859173753,0,0,FAIL,"range=[-0.0387422807477232, 0.00967546309881538]"
+S9,event_rate_proxy,事件频率代理,leave_one_match_out,0.0394127661943512,0.0394127661943512,1,1,PASS,"range=[0.0239469062872428, 0.0623252369803149]"
+S9,spatial_diversity,空间使用多样性,leave_one_match_out,0.0188922410947874,0.0188922410947874,1,1,PASS,"range=[0.0112653465543843, 0.0229184224910439]"
+S9,sequence_predictability,序列可预测性熵代理,leave_one_match_out,-0.00136561046087933,-0.00136561046087933,0,0,FAIL,"range=[-0.00807139414746893, 0.0034436176547387]"
+S9,early_active_share,前三拍主动类别比例,leave_one_match_out,0.0757349263034219,0.0757349263034219,1,1,PASS,"range=[0.0580038455535801, 0.0890240330955068]"
+S9,attack_entry_proxy,进攻进入代理,leave_one_match_out,0.00758299393306374,0.00758299393306374,0,0,FAIL,"range=[-0.00118147100143596, 0.0183101653715684]"
+S9,terminal_attack_event_share,终局后场进攻事件比例,leave_one_match_out,-0.00702773705471893,-0.00702773705471893,1,1,PASS,"range=[-0.0111140091761906, -0.00278324028358942]"
+S9,net_continuation_proxy,网前连续使用代理,leave_one_match_out,-0.0150930704705359,-0.0150930704705359,1,1,PASS,"range=[-0.0278893248049409, -0.00334287040390994]"
+S9,defense_to_attack_proxy,防守转攻代理,leave_one_match_out,-0.0066284963446247,-0.0066284963446247,0,0,FAIL,"range=[-0.0257572715480142, 0.00523852087835328]"

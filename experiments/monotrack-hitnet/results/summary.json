@@ -1,0 +1,211 @@
+{
+  "identity": "Local architecture reproduction, NOT official pretrained MonoTrack",
+  "device": "cuda",
+  "torch": "2.13.0+cu130",
+  "elapsed_sec": 16.953156232833862,
+  "protected_files_checked": 75,
+  "protected_files_changed": [],
+  "checkpoint_hashes": {
+    "hitnet-local-seed-17.pt": "45cc661f6f302ddb187ed90ce05603710161632a4d0ebd66d623ad2ac9e55694",
+    "hitnet-local-seed-29.pt": "fbb34c2598f507cb0a25c6cfad37f3ae3f717bfd86fca541662146e889f1c8d9",
+    "hitnet-local-seed-43.pt": "409e3b817fcdd522d26edf29a0f75f242f1bfe4bacdbc2035840e90f230a626f"
+  },
+  "results": {
+    "baseline_rules_v06": {
+      "strict": {
+        "precision": 0.6231884057971014,
+        "recall": 0.7413793103448276,
+        "f1": 0.6771653543307088,
+        "predicted": 207,
+        "gold": 174,
+        "tp": 129,
+        "fp": 78,
+        "fn": 45,
+        "hitter_accuracy": 0.7829457364341085,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 2.0
+      },
+      "relaxed": {
+        "precision": 0.7198067632850241,
+        "recall": 0.8563218390804598,
+        "f1": 0.7821522309711285,
+        "predicted": 207,
+        "gold": 174,
+        "tp": 149,
+        "fp": 58,
+        "fn": 25,
+        "hitter_accuracy": 0.7516778523489933,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 2.0
+      }
+    },
+    "hitnet_seed_17_dp": {
+      "strict": {
+        "precision": 0.37383177570093457,
+        "recall": 0.45977011494252873,
+        "f1": 0.4123711340206186,
+        "predicted": 214,
+        "gold": 174,
+        "tp": 80,
+        "fp": 134,
+        "fn": 94,
+        "hitter_accuracy": 0.8625,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": 2.5
+      },
+      "relaxed": {
+        "precision": 0.6869158878504673,
+        "recall": 0.8448275862068966,
+        "f1": 0.7577319587628866,
+        "predicted": 214,
+        "gold": 174,
+        "tp": 147,
+        "fp": 67,
+        "fn": 27,
+        "hitter_accuracy": 0.8707482993197279,
+        "median_absolute_frame_error": 6.0,
+        "median_signed_frame_error": 5.0
+      }
+    },
+    "hitnet_seed_17_naive": {
+      "strict": {
+        "precision": 0.40625,
+        "recall": 0.14942528735632185,
+        "f1": 0.2184873949579832,
+        "predicted": 64,
+        "gold": 174,
+        "tp": 26,
+        "fp": 38,
+        "fn": 148,
+        "hitter_accuracy": 0.8846153846153846,
+        "median_absolute_frame_error": 5.0,
+        "median_signed_frame_error": 4.5
+      },
+      "relaxed": {
+        "precision": 0.859375,
+        "recall": 0.3160919540229885,
+        "f1": 0.46218487394957986,
+        "predicted": 64,
+        "gold": 174,
+        "tp": 55,
+        "fp": 9,
+        "fn": 119,
+        "hitter_accuracy": 0.8909090909090909,
+        "median_absolute_frame_error": 7.0,
+        "median_signed_frame_error": 6.0
+      }
+    },
+    "hitnet_seed_29_dp": {
+      "strict": {
+        "precision": 0.37254901960784315,
+        "recall": 0.4367816091954023,
+        "f1": 0.40211640211640215,
+        "predicted": 204,
+        "gold": 174,
+        "tp": 76,
+        "fp": 128,
+        "fn": 98,
+        "hitter_accuracy": 0.9078947368421053,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": 3.0
+      },
+      "relaxed": {
+        "precision": 0.7254901960784313,
+        "recall": 0.8505747126436781,
+        "f1": 0.783068783068783,
+        "predicted": 204,
+        "gold": 174,
+        "tp": 148,
+        "fp": 56,
+        "fn": 26,
+        "hitter_accuracy": 0.9054054054054054,
+        "median_absolute_frame_error": 6.0,
+        "median_signed_frame_error": 5.0
+      }
+    },
+    "hitnet_seed_29_naive": {
+      "strict": {
+        "precision": 0.37681159420289856,
+        "recall": 0.14942528735632185,
+        "f1": 0.2139917695473251,
+        "predicted": 69,
+        "gold": 174,
+        "tp": 26,
+        "fp": 43,
+        "fn": 148,
+        "hitter_accuracy": 0.9230769230769231,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": 4.0
+      },
+      "relaxed": {
+        "precision": 0.7536231884057971,
+        "recall": 0.2988505747126437,
+        "f1": 0.4279835390946502,
+        "predicted": 69,
+        "gold": 174,
+        "tp": 52,
+        "fp": 17,
+        "fn": 122,
+        "hitter_accuracy": 0.9615384615384616,
+        "median_absolute_frame_error": 6.5,
+        "median_signed_frame_error": 6.5
+      }
+    },
+    "hitnet_seed_43_dp": {
+      "strict": {
+        "precision": 0.3333333333333333,
+        "recall": 0.41954022988505746,
+        "f1": 0.37150127226463103,
+        "predicted": 219,
+        "gold": 174,
+        "tp": 73,
+        "fp": 146,
+        "fn": 101,
+        "hitter_accuracy": 0.8904109589041096,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 2.0
+      },
+      "relaxed": {
+        "precision": 0.6712328767123288,
+        "recall": 0.8448275862068966,
+        "f1": 0.7480916030534351,
+        "predicted": 219,
+        "gold": 174,
+        "tp": 147,
+        "fp": 72,
+        "fn": 27,
+        "hitter_accuracy": 0.891156462585034,
+        "median_absolute_frame_error": 7.0,
+        "median_signed_frame_error": 4.0
+      }
+    },
+    "hitnet_seed_43_naive": {
+      "strict": {
+        "precision": 0.26229508196721313,
+        "recall": 0.09195402298850575,
+        "f1": 0.13617021276595745,
+        "predicted": 61,
+        "gold": 174,
+        "tp": 16,
+        "fp": 45,
+        "fn": 158,
+        "hitter_accuracy": 0.875,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": 4.0
+      },
+      "relaxed": {
+        "precision": 0.7704918032786885,
+        "recall": 0.27011494252873564,
+        "f1": 0.4,
+        "predicted": 61,
+        "gold": 174,
+        "tp": 47,
+        "fp": 14,
+        "fn": 127,
+        "hitter_accuracy": 0.9148936170212766,
+        "median_absolute_frame_error": 8.0,
+        "median_signed_frame_error": 8.0
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "source_seconds": 396.23333333333335,
+  "preprocess_seconds": 472.9641847999883,
+  "inference_seconds": 54.125883200002136,
+  "total_compute_over_source": 1.3302517069066806
+}

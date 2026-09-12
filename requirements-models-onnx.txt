@@ -1,0 +1,8 @@
+# Smaller first-stage runtime: RTMPose on ONNX Runtime GPU, without PyTorch.
+numpy==1.26.4
+opencv-contrib-python-headless==4.10.0.84
+onnxruntime-gpu==1.28.0
+tqdm==4.67.1
+
+# Then install RTMLib separately so pip does not replace onnxruntime-gpu:
+#   pip install --no-deps rtmlib==0.0.16

@@ -1,0 +1,3131 @@
+{
+  "schemaVersion": "shuttlelab-semantic-catalog-1",
+  "generatedFrom": "locked hit Gold; model predictions excluded",
+  "videoCount": 9,
+  "anchorCount": 337,
+  "videos": [
+    {
+      "videoId": "vid_4b1c43adb616",
+      "fileName": "ea0b8fc5d7fee7dfd1537291a70daa3c.mp4",
+      "fps": 30.0,
+      "frameCount": 1023,
+      "durationSec": 34.122,
+      "anchorCount": 29,
+      "anchors": [
+        {
+          "anchorId": "vid_4b1c43adb616:34",
+          "rallyId": "Rally 01",
+          "hitFrame": 34,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:66",
+          "rallyId": "Rally 01",
+          "hitFrame": 66,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:86",
+          "rallyId": "Rally 01",
+          "hitFrame": 86,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:118",
+          "rallyId": "Rally 01",
+          "hitFrame": 118,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:150",
+          "rallyId": "Rally 01",
+          "hitFrame": 150,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:166",
+          "rallyId": "Rally 01",
+          "hitFrame": 166,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:190",
+          "rallyId": "Rally 01",
+          "hitFrame": 190,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:234",
+          "rallyId": "Rally 01",
+          "hitFrame": 234,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:269",
+          "rallyId": "Rally 01",
+          "hitFrame": 269,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:285",
+          "rallyId": "Rally 01",
+          "hitFrame": 285,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:317",
+          "rallyId": "Rally 01",
+          "hitFrame": 317,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:353",
+          "rallyId": "Rally 01",
+          "hitFrame": 353,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:377",
+          "rallyId": "Rally 01",
+          "hitFrame": 377,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:441",
+          "rallyId": "Rally 01",
+          "hitFrame": 441,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:480",
+          "rallyId": "Rally 01",
+          "hitFrame": 480,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:513",
+          "rallyId": "Rally 01",
+          "hitFrame": 513,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:528",
+          "rallyId": "Rally 01",
+          "hitFrame": 528,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:556",
+          "rallyId": "Rally 01",
+          "hitFrame": 556,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:596",
+          "rallyId": "Rally 01",
+          "hitFrame": 596,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:620",
+          "rallyId": "Rally 01",
+          "hitFrame": 620,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:656",
+          "rallyId": "Rally 01",
+          "hitFrame": 656,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:680",
+          "rallyId": "Rally 01",
+          "hitFrame": 680,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:712",
+          "rallyId": "Rally 01",
+          "hitFrame": 712,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:747",
+          "rallyId": "Rally 01",
+          "hitFrame": 747,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:783",
+          "rallyId": "Rally 01",
+          "hitFrame": 783,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:823",
+          "rallyId": "Rally 01",
+          "hitFrame": 823,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:843",
+          "rallyId": "Rally 01",
+          "hitFrame": 843,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:879",
+          "rallyId": "Rally 01",
+          "hitFrame": 879,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_4b1c43adb616:915",
+          "rallyId": "Rally 01",
+          "hitFrame": 915,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_a912ea747b50",
+      "fileName": "d88ab6323e9b243c4dfdd665336b86b9.mp4",
+      "fps": 30.0,
+      "frameCount": 1037,
+      "durationSec": 34.61,
+      "anchorCount": 24,
+      "anchors": [
+        {
+          "anchorId": "vid_a912ea747b50:293",
+          "rallyId": "Rally 01",
+          "hitFrame": 293,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:317",
+          "rallyId": "Rally 01",
+          "hitFrame": 317,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:341",
+          "rallyId": "Rally 01",
+          "hitFrame": 341,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:377",
+          "rallyId": "Rally 01",
+          "hitFrame": 377,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:397",
+          "rallyId": "Rally 01",
+          "hitFrame": 397,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:433",
+          "rallyId": "Rally 01",
+          "hitFrame": 433,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:473",
+          "rallyId": "Rally 01",
+          "hitFrame": 473,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:492",
+          "rallyId": "Rally 01",
+          "hitFrame": 492,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:520",
+          "rallyId": "Rally 01",
+          "hitFrame": 520,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:568",
+          "rallyId": "Rally 01",
+          "hitFrame": 568,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:580",
+          "rallyId": "Rally 01",
+          "hitFrame": 580,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:612",
+          "rallyId": "Rally 01",
+          "hitFrame": 612,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:656",
+          "rallyId": "Rally 01",
+          "hitFrame": 656,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:680",
+          "rallyId": "Rally 01",
+          "hitFrame": 680,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:700",
+          "rallyId": "Rally 01",
+          "hitFrame": 700,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:724",
+          "rallyId": "Rally 01",
+          "hitFrame": 724,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:752",
+          "rallyId": "Rally 01",
+          "hitFrame": 752,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:807",
+          "rallyId": "Rally 01",
+          "hitFrame": 807,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:831",
+          "rallyId": "Rally 01",
+          "hitFrame": 831,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:859",
+          "rallyId": "Rally 01",
+          "hitFrame": 859,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:895",
+          "rallyId": "Rally 01",
+          "hitFrame": 895,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:915",
+          "rallyId": "Rally 01",
+          "hitFrame": 915,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:935",
+          "rallyId": "Rally 01",
+          "hitFrame": 935,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a912ea747b50:963",
+          "rallyId": "Rally 01",
+          "hitFrame": 963,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_b0177c060820",
+      "fileName": "34fe6ef3524ce8fb1f388af7e53a9984.mp4",
+      "fps": 30.0,
+      "frameCount": 1112,
+      "durationSec": 37.305356,
+      "anchorCount": 35,
+      "anchors": [
+        {
+          "anchorId": "vid_b0177c060820:146",
+          "rallyId": "Rally 01",
+          "hitFrame": 146,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:166",
+          "rallyId": "Rally 01",
+          "hitFrame": 166,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:186",
+          "rallyId": "Rally 01",
+          "hitFrame": 186,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:210",
+          "rallyId": "Rally 01",
+          "hitFrame": 210,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:246",
+          "rallyId": "Rally 01",
+          "hitFrame": 246,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:269",
+          "rallyId": "Rally 01",
+          "hitFrame": 269,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:289",
+          "rallyId": "Rally 01",
+          "hitFrame": 289,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:317",
+          "rallyId": "Rally 01",
+          "hitFrame": 317,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:337",
+          "rallyId": "Rally 01",
+          "hitFrame": 337,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:361",
+          "rallyId": "Rally 01",
+          "hitFrame": 361,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:401",
+          "rallyId": "Rally 01",
+          "hitFrame": 401,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:441",
+          "rallyId": "Rally 01",
+          "hitFrame": 441,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:461",
+          "rallyId": "Rally 01",
+          "hitFrame": 461,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:489",
+          "rallyId": "Rally 01",
+          "hitFrame": 489,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:513",
+          "rallyId": "Rally 01",
+          "hitFrame": 513,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:552",
+          "rallyId": "Rally 01",
+          "hitFrame": 552,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:572",
+          "rallyId": "Rally 01",
+          "hitFrame": 572,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:604",
+          "rallyId": "Rally 01",
+          "hitFrame": 604,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:624",
+          "rallyId": "Rally 01",
+          "hitFrame": 624,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:668",
+          "rallyId": "Rally 01",
+          "hitFrame": 668,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:688",
+          "rallyId": "Rally 01",
+          "hitFrame": 688,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:728",
+          "rallyId": "Rally 01",
+          "hitFrame": 728,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:748",
+          "rallyId": "Rally 01",
+          "hitFrame": 748,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:767",
+          "rallyId": "Rally 01",
+          "hitFrame": 767,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:783",
+          "rallyId": "Rally 01",
+          "hitFrame": 783,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:807",
+          "rallyId": "Rally 01",
+          "hitFrame": 807,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:843",
+          "rallyId": "Rally 01",
+          "hitFrame": 843,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:863",
+          "rallyId": "Rally 01",
+          "hitFrame": 863,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:875",
+          "rallyId": "Rally 01",
+          "hitFrame": 875,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:899",
+          "rallyId": "Rally 01",
+          "hitFrame": 899,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:923",
+          "rallyId": "Rally 01",
+          "hitFrame": 923,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:959",
+          "rallyId": "Rally 01",
+          "hitFrame": 959,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:987",
+          "rallyId": "Rally 01",
+          "hitFrame": 987,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:1019",
+          "rallyId": "Rally 01",
+          "hitFrame": 1019,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_b0177c060820:1054",
+          "rallyId": "Rally 01",
+          "hitFrame": 1054,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_bb4c242a4e03",
+      "fileName": "38a01aa179a179d5ea702860cf5ec8c4.mp4",
+      "fps": 30.0,
+      "frameCount": 1226,
+      "durationSec": 40.903,
+      "anchorCount": 36,
+      "anchors": [
+        {
+          "anchorId": "vid_bb4c242a4e03:182",
+          "rallyId": "Rally 01",
+          "hitFrame": 182,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:202",
+          "rallyId": "Rally 01",
+          "hitFrame": 202,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:221",
+          "rallyId": "Rally 01",
+          "hitFrame": 221,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:257",
+          "rallyId": "Rally 01",
+          "hitFrame": 257,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:281",
+          "rallyId": "Rally 01",
+          "hitFrame": 281,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:305",
+          "rallyId": "Rally 01",
+          "hitFrame": 305,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:325",
+          "rallyId": "Rally 01",
+          "hitFrame": 325,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:349",
+          "rallyId": "Rally 01",
+          "hitFrame": 349,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:393",
+          "rallyId": "Rally 01",
+          "hitFrame": 393,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:413",
+          "rallyId": "Rally 01",
+          "hitFrame": 413,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:437",
+          "rallyId": "Rally 01",
+          "hitFrame": 437,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:465",
+          "rallyId": "Rally 01",
+          "hitFrame": 465,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:477",
+          "rallyId": "Rally 01",
+          "hitFrame": 477,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:501",
+          "rallyId": "Rally 01",
+          "hitFrame": 501,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:532",
+          "rallyId": "Rally 01",
+          "hitFrame": 532,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:552",
+          "rallyId": "Rally 01",
+          "hitFrame": 552,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:576",
+          "rallyId": "Rally 01",
+          "hitFrame": 576,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:604",
+          "rallyId": "Rally 01",
+          "hitFrame": 604,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:632",
+          "rallyId": "Rally 01",
+          "hitFrame": 632,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:672",
+          "rallyId": "Rally 01",
+          "hitFrame": 672,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:696",
+          "rallyId": "Rally 01",
+          "hitFrame": 696,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:740",
+          "rallyId": "Rally 01",
+          "hitFrame": 740,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:771",
+          "rallyId": "Rally 01",
+          "hitFrame": 771,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:787",
+          "rallyId": "Rally 01",
+          "hitFrame": 787,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:815",
+          "rallyId": "Rally 01",
+          "hitFrame": 815,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:839",
+          "rallyId": "Rally 01",
+          "hitFrame": 839,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:871",
+          "rallyId": "Rally 01",
+          "hitFrame": 871,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:915",
+          "rallyId": "Rally 01",
+          "hitFrame": 915,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:939",
+          "rallyId": "Rally 01",
+          "hitFrame": 939,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:963",
+          "rallyId": "Rally 01",
+          "hitFrame": 963,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:991",
+          "rallyId": "Rally 01",
+          "hitFrame": 991,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:1038",
+          "rallyId": "Rally 01",
+          "hitFrame": 1038,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:1066",
+          "rallyId": "Rally 01",
+          "hitFrame": 1066,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:1094",
+          "rallyId": "Rally 01",
+          "hitFrame": 1094,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:1122",
+          "rallyId": "Rally 01",
+          "hitFrame": 1122,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_bb4c242a4e03:1138",
+          "rallyId": "Rally 01",
+          "hitFrame": 1138,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_fa14dca5204c",
+      "fileName": "5e2ee0e51a25b6b5a0f99e8f64992ec3.mp4",
+      "fps": 30.0,
+      "frameCount": 986,
+      "durationSec": 32.904,
+      "anchorCount": 26,
+      "anchors": [
+        {
+          "anchorId": "vid_fa14dca5204c:114",
+          "rallyId": "Rally 01",
+          "hitFrame": 114,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:134",
+          "rallyId": "Rally 01",
+          "hitFrame": 134,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:154",
+          "rallyId": "Rally 01",
+          "hitFrame": 154,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:194",
+          "rallyId": "Rally 01",
+          "hitFrame": 194,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:221",
+          "rallyId": "Rally 01",
+          "hitFrame": 221,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:245",
+          "rallyId": "Rally 01",
+          "hitFrame": 245,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:269",
+          "rallyId": "Rally 01",
+          "hitFrame": 269,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:297",
+          "rallyId": "Rally 01",
+          "hitFrame": 297,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:337",
+          "rallyId": "Rally 01",
+          "hitFrame": 337,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:349",
+          "rallyId": "Rally 01",
+          "hitFrame": 349,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:377",
+          "rallyId": "Rally 01",
+          "hitFrame": 377,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:401",
+          "rallyId": "Rally 01",
+          "hitFrame": 401,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:425",
+          "rallyId": "Rally 01",
+          "hitFrame": 425,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:464",
+          "rallyId": "Rally 01",
+          "hitFrame": 464,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:484",
+          "rallyId": "Rally 01",
+          "hitFrame": 484,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:516",
+          "rallyId": "Rally 01",
+          "hitFrame": 516,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:552",
+          "rallyId": "Rally 01",
+          "hitFrame": 552,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:592",
+          "rallyId": "Rally 01",
+          "hitFrame": 592,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:620",
+          "rallyId": "Rally 01",
+          "hitFrame": 620,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:644",
+          "rallyId": "Rally 01",
+          "hitFrame": 644,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:676",
+          "rallyId": "Rally 01",
+          "hitFrame": 676,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:731",
+          "rallyId": "Rally 01",
+          "hitFrame": 731,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:747",
+          "rallyId": "Rally 01",
+          "hitFrame": 747,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:771",
+          "rallyId": "Rally 01",
+          "hitFrame": 771,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:799",
+          "rallyId": "Rally 01",
+          "hitFrame": 799,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa14dca5204c:847",
+          "rallyId": "Rally 01",
+          "hitFrame": 847,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_fa5007a0980c",
+      "fileName": "4c7d4df5062a77d855200bad004426b3.mp4",
+      "fps": 30.0,
+      "frameCount": 924,
+      "durationSec": 30.958444,
+      "anchorCount": 24,
+      "anchors": [
+        {
+          "anchorId": "vid_fa5007a0980c:174",
+          "rallyId": "Rally 01",
+          "hitFrame": 174,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:194",
+          "rallyId": "Rally 01",
+          "hitFrame": 194,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:230",
+          "rallyId": "Rally 01",
+          "hitFrame": 230,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:253",
+          "rallyId": "Rally 01",
+          "hitFrame": 253,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:277",
+          "rallyId": "Rally 01",
+          "hitFrame": 277,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:301",
+          "rallyId": "Rally 01",
+          "hitFrame": 301,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:325",
+          "rallyId": "Rally 01",
+          "hitFrame": 325,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:393",
+          "rallyId": "Rally 01",
+          "hitFrame": 393,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:409",
+          "rallyId": "Rally 01",
+          "hitFrame": 409,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:433",
+          "rallyId": "Rally 01",
+          "hitFrame": 433,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:453",
+          "rallyId": "Rally 01",
+          "hitFrame": 453,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:473",
+          "rallyId": "Rally 01",
+          "hitFrame": 473,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:505",
+          "rallyId": "Rally 01",
+          "hitFrame": 505,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:532",
+          "rallyId": "Rally 01",
+          "hitFrame": 532,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:556",
+          "rallyId": "Rally 01",
+          "hitFrame": 556,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:584",
+          "rallyId": "Rally 01",
+          "hitFrame": 584,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:644",
+          "rallyId": "Rally 01",
+          "hitFrame": 644,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:664",
+          "rallyId": "Rally 01",
+          "hitFrame": 664,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:700",
+          "rallyId": "Rally 01",
+          "hitFrame": 700,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:724",
+          "rallyId": "Rally 01",
+          "hitFrame": 724,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:752",
+          "rallyId": "Rally 01",
+          "hitFrame": 752,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:779",
+          "rallyId": "Rally 01",
+          "hitFrame": 779,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:805",
+          "rallyId": "Rally 01",
+          "hitFrame": 805,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_fa5007a0980c:869",
+          "rallyId": "Rally 01",
+          "hitFrame": 869,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_2e2258f261aa",
+      "fileName": "example.mp4",
+      "fps": 29.983713,
+      "frameCount": 1841,
+      "durationSec": 61.558,
+      "anchorCount": 58,
+      "anchors": [
+        {
+          "anchorId": "vid_2e2258f261aa:54",
+          "rallyId": "Rally 01",
+          "hitFrame": 54,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:74",
+          "rallyId": "Rally 01",
+          "hitFrame": 74,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:110",
+          "rallyId": "Rally 01",
+          "hitFrame": 110,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:130",
+          "rallyId": "Rally 01",
+          "hitFrame": 130,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:150",
+          "rallyId": "Rally 01",
+          "hitFrame": 150,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:166",
+          "rallyId": "Rally 01",
+          "hitFrame": 166,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:186",
+          "rallyId": "Rally 01",
+          "hitFrame": 186,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:213",
+          "rallyId": "Rally 01",
+          "hitFrame": 213,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:225",
+          "rallyId": "Rally 01",
+          "hitFrame": 225,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:253",
+          "rallyId": "Rally 01",
+          "hitFrame": 253,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:277",
+          "rallyId": "Rally 01",
+          "hitFrame": 277,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:309",
+          "rallyId": "Rally 01",
+          "hitFrame": 309,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:337",
+          "rallyId": "Rally 01",
+          "hitFrame": 337,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:365",
+          "rallyId": "Rally 01",
+          "hitFrame": 365,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:397",
+          "rallyId": "Rally 01",
+          "hitFrame": 397,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:413",
+          "rallyId": "Rally 01",
+          "hitFrame": 413,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:445",
+          "rallyId": "Rally 01",
+          "hitFrame": 445,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:477",
+          "rallyId": "Rally 01",
+          "hitFrame": 477,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:512",
+          "rallyId": "Rally 01",
+          "hitFrame": 512,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:560",
+          "rallyId": "Rally 01",
+          "hitFrame": 560,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:580",
+          "rallyId": "Rally 01",
+          "hitFrame": 580,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:604",
+          "rallyId": "Rally 01",
+          "hitFrame": 604,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:632",
+          "rallyId": "Rally 01",
+          "hitFrame": 632,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:672",
+          "rallyId": "Rally 01",
+          "hitFrame": 672,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:700",
+          "rallyId": "Rally 01",
+          "hitFrame": 700,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:727",
+          "rallyId": "Rally 01",
+          "hitFrame": 727,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:747",
+          "rallyId": "Rally 01",
+          "hitFrame": 747,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:771",
+          "rallyId": "Rally 01",
+          "hitFrame": 771,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:811",
+          "rallyId": "Rally 01",
+          "hitFrame": 811,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:823",
+          "rallyId": "Rally 01",
+          "hitFrame": 823,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:855",
+          "rallyId": "Rally 01",
+          "hitFrame": 855,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:879",
+          "rallyId": "Rally 01",
+          "hitFrame": 879,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:931",
+          "rallyId": "Rally 01",
+          "hitFrame": 931,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:959",
+          "rallyId": "Rally 01",
+          "hitFrame": 959,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:991",
+          "rallyId": "Rally 01",
+          "hitFrame": 991,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1038",
+          "rallyId": "Rally 01",
+          "hitFrame": 1038,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1054",
+          "rallyId": "Rally 01",
+          "hitFrame": 1054,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1074",
+          "rallyId": "Rally 01",
+          "hitFrame": 1074,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1114",
+          "rallyId": "Rally 01",
+          "hitFrame": 1114,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1134",
+          "rallyId": "Rally 01",
+          "hitFrame": 1134,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1166",
+          "rallyId": "Rally 01",
+          "hitFrame": 1166,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1206",
+          "rallyId": "Rally 01",
+          "hitFrame": 1206,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1230",
+          "rallyId": "Rally 01",
+          "hitFrame": 1230,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1273",
+          "rallyId": "Rally 01",
+          "hitFrame": 1273,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1313",
+          "rallyId": "Rally 01",
+          "hitFrame": 1313,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1345",
+          "rallyId": "Rally 01",
+          "hitFrame": 1345,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1373",
+          "rallyId": "Rally 01",
+          "hitFrame": 1373,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1405",
+          "rallyId": "Rally 01",
+          "hitFrame": 1405,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1473",
+          "rallyId": "Rally 01",
+          "hitFrame": 1473,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1493",
+          "rallyId": "Rally 01",
+          "hitFrame": 1493,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1532",
+          "rallyId": "Rally 01",
+          "hitFrame": 1532,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1560",
+          "rallyId": "Rally 01",
+          "hitFrame": 1560,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1592",
+          "rallyId": "Rally 01",
+          "hitFrame": 1592,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1628",
+          "rallyId": "Rally 01",
+          "hitFrame": 1628,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1672",
+          "rallyId": "Rally 01",
+          "hitFrame": 1672,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1688",
+          "rallyId": "Rally 01",
+          "hitFrame": 1688,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1716",
+          "rallyId": "Rally 01",
+          "hitFrame": 1716,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_2e2258f261aa:1744",
+          "rallyId": "Rally 01",
+          "hitFrame": 1744,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_576b0c1ab370",
+      "fileName": "917a5c328c24fbd8aba2970d461eeef0.mp4",
+      "fps": 30.0,
+      "frameCount": 1745,
+      "durationSec": 58.166667,
+      "anchorCount": 41,
+      "anchors": [
+        {
+          "anchorId": "vid_576b0c1ab370:461",
+          "rallyId": "Rally 01",
+          "hitFrame": 461,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:492",
+          "rallyId": "Rally 01",
+          "hitFrame": 492,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:504",
+          "rallyId": "Rally 01",
+          "hitFrame": 504,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:524",
+          "rallyId": "Rally 01",
+          "hitFrame": 524,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:556",
+          "rallyId": "Rally 01",
+          "hitFrame": 556,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:592",
+          "rallyId": "Rally 01",
+          "hitFrame": 592,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:628",
+          "rallyId": "Rally 01",
+          "hitFrame": 628,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:664",
+          "rallyId": "Rally 01",
+          "hitFrame": 664,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:680",
+          "rallyId": "Rally 01",
+          "hitFrame": 680,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:712",
+          "rallyId": "Rally 01",
+          "hitFrame": 712,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:743",
+          "rallyId": "Rally 01",
+          "hitFrame": 743,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:779",
+          "rallyId": "Rally 01",
+          "hitFrame": 779,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:807",
+          "rallyId": "Rally 01",
+          "hitFrame": 807,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:839",
+          "rallyId": "Rally 01",
+          "hitFrame": 839,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:871",
+          "rallyId": "Rally 01",
+          "hitFrame": 871,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:891",
+          "rallyId": "Rally 01",
+          "hitFrame": 891,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:919",
+          "rallyId": "Rally 01",
+          "hitFrame": 919,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:967",
+          "rallyId": "Rally 01",
+          "hitFrame": 967,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:998",
+          "rallyId": "Rally 01",
+          "hitFrame": 998,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1026",
+          "rallyId": "Rally 01",
+          "hitFrame": 1026,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1034",
+          "rallyId": "Rally 01",
+          "hitFrame": 1034,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": "corrected hitter after raw-video QA"
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1058",
+          "rallyId": "Rally 01",
+          "hitFrame": 1058,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1094",
+          "rallyId": "Rally 01",
+          "hitFrame": 1094,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1114",
+          "rallyId": "Rally 01",
+          "hitFrame": 1114,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1146",
+          "rallyId": "Rally 01",
+          "hitFrame": 1146,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1186",
+          "rallyId": "Rally 01",
+          "hitFrame": 1186,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1214",
+          "rallyId": "Rally 01",
+          "hitFrame": 1214,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1242",
+          "rallyId": "Rally 01",
+          "hitFrame": 1242,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1289",
+          "rallyId": "Rally 01",
+          "hitFrame": 1289,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1321",
+          "rallyId": "Rally 01",
+          "hitFrame": 1321,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1353",
+          "rallyId": "Rally 01",
+          "hitFrame": 1353,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1393",
+          "rallyId": "Rally 01",
+          "hitFrame": 1393,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1421",
+          "rallyId": "Rally 01",
+          "hitFrame": 1421,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1461",
+          "rallyId": "Rally 01",
+          "hitFrame": 1461,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1477",
+          "rallyId": "Rally 01",
+          "hitFrame": 1477,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1508",
+          "rallyId": "Rally 01",
+          "hitFrame": 1508,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1544",
+          "rallyId": "Rally 01",
+          "hitFrame": 1544,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1592",
+          "rallyId": "Rally 01",
+          "hitFrame": 1592,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1620",
+          "rallyId": "Rally 01",
+          "hitFrame": 1620,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1656",
+          "rallyId": "Rally 01",
+          "hitFrame": 1656,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_576b0c1ab370:1696",
+          "rallyId": "Rally 01",
+          "hitFrame": 1696,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "videoId": "vid_a598228fbc11",
+      "fileName": "ffe73702d7bca21cc3ef8ea870dd46aa.mp4",
+      "fps": 30.0,
+      "frameCount": 1993,
+      "durationSec": 66.433333,
+      "anchorCount": 64,
+      "anchors": [
+        {
+          "anchorId": "vid_a598228fbc11:77",
+          "rallyId": "Rally 01",
+          "hitFrame": 77,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:97",
+          "rallyId": "Rally 01",
+          "hitFrame": 97,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:117",
+          "rallyId": "Rally 01",
+          "hitFrame": 117,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:141",
+          "rallyId": "Rally 01",
+          "hitFrame": 141,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:185",
+          "rallyId": "Rally 01",
+          "hitFrame": 185,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:201",
+          "rallyId": "Rally 01",
+          "hitFrame": 201,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:221",
+          "rallyId": "Rally 01",
+          "hitFrame": 221,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:241",
+          "rallyId": "Rally 01",
+          "hitFrame": 241,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:265",
+          "rallyId": "Rally 01",
+          "hitFrame": 265,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:292",
+          "rallyId": "Rally 01",
+          "hitFrame": 292,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:320",
+          "rallyId": "Rally 01",
+          "hitFrame": 320,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:360",
+          "rallyId": "Rally 01",
+          "hitFrame": 360,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:372",
+          "rallyId": "Rally 01",
+          "hitFrame": 372,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:400",
+          "rallyId": "Rally 01",
+          "hitFrame": 400,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:416",
+          "rallyId": "Rally 01",
+          "hitFrame": 416,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:432",
+          "rallyId": "Rally 01",
+          "hitFrame": 432,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:444",
+          "rallyId": "Rally 01",
+          "hitFrame": 444,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:468",
+          "rallyId": "Rally 01",
+          "hitFrame": 468,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:500",
+          "rallyId": "Rally 01",
+          "hitFrame": 500,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:547",
+          "rallyId": "Rally 01",
+          "hitFrame": 547,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:563",
+          "rallyId": "Rally 01",
+          "hitFrame": 563,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:587",
+          "rallyId": "Rally 01",
+          "hitFrame": 587,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:627",
+          "rallyId": "Rally 01",
+          "hitFrame": 627,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:647",
+          "rallyId": "Rally 01",
+          "hitFrame": 647,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:667",
+          "rallyId": "Rally 01",
+          "hitFrame": 667,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:707",
+          "rallyId": "Rally 01",
+          "hitFrame": 707,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:731",
+          "rallyId": "Rally 01",
+          "hitFrame": 731,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:774",
+          "rallyId": "Rally 01",
+          "hitFrame": 774,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:798",
+          "rallyId": "Rally 01",
+          "hitFrame": 798,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:826",
+          "rallyId": "Rally 01",
+          "hitFrame": 826,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:842",
+          "rallyId": "Rally 01",
+          "hitFrame": 842,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:886",
+          "rallyId": "Rally 01",
+          "hitFrame": 886,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:910",
+          "rallyId": "Rally 01",
+          "hitFrame": 910,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:938",
+          "rallyId": "Rally 01",
+          "hitFrame": 938,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:974",
+          "rallyId": "Rally 01",
+          "hitFrame": 974,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:998",
+          "rallyId": "Rally 01",
+          "hitFrame": 998,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1022",
+          "rallyId": "Rally 01",
+          "hitFrame": 1022,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1073",
+          "rallyId": "Rally 01",
+          "hitFrame": 1073,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1081",
+          "rallyId": "Rally 01",
+          "hitFrame": 1081,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1113",
+          "rallyId": "Rally 01",
+          "hitFrame": 1113,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1149",
+          "rallyId": "Rally 01",
+          "hitFrame": 1149,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1181",
+          "rallyId": "Rally 01",
+          "hitFrame": 1181,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1221",
+          "rallyId": "Rally 01",
+          "hitFrame": 1221,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1249",
+          "rallyId": "Rally 01",
+          "hitFrame": 1249,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1280",
+          "rallyId": "Rally 01",
+          "hitFrame": 1280,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1348",
+          "rallyId": "Rally 01",
+          "hitFrame": 1348,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1364",
+          "rallyId": "Rally 01",
+          "hitFrame": 1364,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1392",
+          "rallyId": "Rally 01",
+          "hitFrame": 1392,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1432",
+          "rallyId": "Rally 01",
+          "hitFrame": 1432,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1464",
+          "rallyId": "Rally 01",
+          "hitFrame": 1464,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1508",
+          "rallyId": "Rally 01",
+          "hitFrame": 1508,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1536",
+          "rallyId": "Rally 01",
+          "hitFrame": 1536,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1583",
+          "rallyId": "Rally 01",
+          "hitFrame": 1583,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1611",
+          "rallyId": "Rally 01",
+          "hitFrame": 1611,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1647",
+          "rallyId": "Rally 01",
+          "hitFrame": 1647,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1675",
+          "rallyId": "Rally 01",
+          "hitFrame": 1675,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1703",
+          "rallyId": "Rally 01",
+          "hitFrame": 1703,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1767",
+          "rallyId": "Rally 01",
+          "hitFrame": 1767,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1802",
+          "rallyId": "Rally 01",
+          "hitFrame": 1802,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1814",
+          "rallyId": "Rally 01",
+          "hitFrame": 1814,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1846",
+          "rallyId": "Rally 01",
+          "hitFrame": 1846,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1886",
+          "rallyId": "Rally 01",
+          "hitFrame": 1886,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1934",
+          "rallyId": "Rally 01",
+          "hitFrame": 1934,
+          "hitter": "upper",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        },
+        {
+          "anchorId": "vid_a598228fbc11:1946",
+          "rallyId": "Rally 01",
+          "hitFrame": 1946,
+          "hitter": "lower",
+          "confidence": "high",
+          "uncertaintyFrames": 1,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

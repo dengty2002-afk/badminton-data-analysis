@@ -1,0 +1,21 @@
+﻿family,metric,metric_label,definition,interpretation
+style,smash_share,杀球倾向,(smash+wrist smash)/六类已分类击球,风格/过程结构，不代表得分效果
+style,drop_share,吊球倾向,(drop+passive drop)/六类已分类击球,风格/过程结构，不代表得分效果
+style,net_share,网前倾向,网前/前场宏观类别/六类已分类击球,风格/过程结构，不代表得分效果
+style,drive_share,抽挡倾向,平抽/推挡宏观类别/六类已分类击球,风格/过程结构，不代表得分效果
+style,backcourt_tendency,后场击球倾向,后场有效击球位置/全部有效自身位置,风格/过程结构，不代表得分效果
+style,event_rate_proxy,事件频率代理,逐回合自有事件数/全回合持续时间的比赛级中位数,风格/过程结构，不代表得分效果
+style,spatial_diversity,空间使用多样性,0.5×九宫格落点熵+0.5×横向位移熵,风格/过程结构，不代表得分效果
+style,sequence_predictability,序列可预测性熵代理,1-六类自有击球转移归一化条件熵；unknown断开序列,风格/过程结构，不代表得分效果
+process_proxy,early_active_share,前三拍主动类别比例,全回合stroke_index≤3的自有已分类击球中主动类别比例,风格/过程结构，不代表得分效果
+process_proxy,attack_entry_proxy,进攻进入代理,合格中性/防守锚点后1–2次自有原始事件出现后场进攻的回合比例,风格/过程结构，不代表得分效果
+process_proxy,terminal_attack_event_share,终局后场进攻事件比例,全回合最后可分类事件属于目标运动员且为后场进攻的回合比例,风格/过程结构，不代表得分效果
+process_proxy,net_continuation_proxy,网前连续使用代理,合格网前锚点后1–2次自有原始事件再次网前的机会比例,风格/过程结构，不代表得分效果
+process_proxy,defense_to_attack_proxy,防守转攻代理,合格高远/挑球锚点后1–2次自有原始事件出现后场进攻的回合比例,风格/过程结构，不代表得分效果
+auxiliary,long_rally_share_10,长回合暴露（≥10拍）,双方有效事件数≥10的回合/有效回合,辅助描述
+auxiliary,long_rally_share_8,长回合暴露（≥8拍）,双方有效事件数≥8的回合/有效回合,辅助描述
+auxiliary,long_rally_share_12,长回合暴露（≥12拍）,双方有效事件数≥12的回合/有效回合,辅助描述
+auxiliary,landing_entropy,落点熵,九宫格预测落点归一化Shannon熵,辅助描述
+auxiliary,line_entropy,横向位移熵,横向位移三分类归一化Shannon熵,辅助描述
+auxiliary,landing_coverage,落点覆盖代理,使用过的九宫格数量/9,辅助描述
+auxiliary,classified_rate,已分类率,六类已分类击球/全部自有事件,辅助描述

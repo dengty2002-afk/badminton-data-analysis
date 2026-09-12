@@ -1,0 +1,22 @@
+[
+  {
+    "file": "golfdb_model.py",
+    "url": "https://raw.githubusercontent.com/wmcnally/golfdb/a63b4ce8c0900d09abbe92519223efe16810f5f4/model.py",
+    "sha256": "b46e105d53ab254cd8c6c019ee2c737c11043743c87cb657b6955d06b48d0ec5"
+  },
+  {
+    "file": "golfdb_eval.py",
+    "url": "https://raw.githubusercontent.com/wmcnally/golfdb/a63b4ce8c0900d09abbe92519223efe16810f5f4/eval.py",
+    "sha256": "d2a3b6867532fefbee24953bedd461b25b82f0255b38892255f5b71155d76d56"
+  },
+  {
+    "file": "golfdb_MobileNetV2.py",
+    "url": "https://raw.githubusercontent.com/wmcnally/golfdb/a63b4ce8c0900d09abbe92519223efe16810f5f4/MobileNetV2.py",
+    "sha256": "5c34213c703db453f0bf633600cd6497c5a8b50a18430a807d87b06212fb9bb2"
+  },
+  {
+    "file": "rt_conversion_historical.py",
+    "url": "https://raw.githubusercontent.com/wish44165/A-New-Perspective-for-Shuttlecock-Hitting-Event-Detection/989ff9cf2bf572d27920facd609f5aef3c0a9701/src/preprocess/rt_conversion_datasets.py",
+    "sha256": "413abf441f3cd603fd0bbd08fa3c5a05a6162789fcb990e865eb4afd1f83233b"
+  }
+]

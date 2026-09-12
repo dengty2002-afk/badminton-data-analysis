@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "name": "Good-Badminton",
+    "release": "v0.1.0",
+    "repository": "https://github.com/yo-WASSUP/Good-Badminton",
+    "license": "Apache-2.0"
+  },
+  "models": {
+    "person_detector": {
+      "filename": "yolox_nano_8xb8-300e_humanart-40f6f0d0.onnx",
+      "size_bytes": 3722395,
+      "sha256": "1450966de24902b18aada1a78913d7efd8fc8dcd51bd4d0d5591476bd4a38821",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton/releases/download/v0.1.0/yolox_nano_8xb8-300e_humanart-40f6f0d0.onnx"
+    },
+    "pose": {
+      "filename": "rtmpose-s_simcc-body7_pt-body7_420e-256x192-acd4a1ef_20230504.onnx",
+      "size_bytes": 21890172,
+      "sha256": "9aeb635b83f86aea45cf45d85798f7eba1a162de8e0d721c44e54fe5eebaf47d",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton/releases/download/v0.1.0/rtmpose-s_simcc-body7_pt-body7_420e-256x192-acd4a1ef_20230504.onnx"
+    },
+    "shuttle": {
+      "filename": "yolo11s-ball.pt",
+      "size_bytes": 19173075,
+      "sha256": "c21113960fadce7f96b9f70f86802142482775405f60a9761328491868edf31b",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton/releases/download/v0.1.0/yolo11s-ball.pt"
+    }
+  }
+}

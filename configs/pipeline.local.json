@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "project": "Badminton Local Visual Dataset Pipeline",
+  "mode": "local-first",
+  "supported_video_extensions": [".mp4", ".mov", ".mkv"],
+  "default_domain": "fixed-camera-singles",
+  "redistribution": "private",
+  "size_budget": {
+    "warn_workspace_mb": 2048,
+    "warn_single_artifact_mb": 500,
+    "require_confirmation_before_model_download_mb": 500
+  },
+  "stages": {
+    "video_ingest": "enabled",
+    "calibration": "enabled_manual",
+    "pose": "enabled_gpu",
+    "shuttle": "enabled_gpu",
+    "player_tracking": "enabled_temporal_homography_side_mapping",
+    "hit_detection": "candidate_rules_v0.2_ready",
+    "rally_segmentation": "candidate_gap_rule_ready",
+    "annotation": "web_v13_frozen_until_local_pipeline_stable",
+    "stroke_classification": "bst_input_adapter_ready",
+    "export": "shuttleset_parquet_csv_jsonl_v0.1",
+    "batch_orchestration": "resumable_register_court_infer_validate_merge_v0.1"
+  }
+}

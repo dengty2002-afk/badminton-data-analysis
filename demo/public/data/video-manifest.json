@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-06T03:54:45+00:00",
+  "pipeline_version": "ingest-0.1.0",
+  "video": {
+    "video_id": "vid_2e2258f261aa",
+    "path": "D:\\羽毛球自动化\\example.mp4",
+    "file_name": "example.mp4",
+    "checksum": "2e2258f261aa19d02190f82f0528417229a468fec6c984388d363147398dd557",
+    "checksum_algorithm": "sha256",
+    "file_size_bytes": 11877982,
+    "duration_sec": 61.558,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.983713,
+    "frame_count": 1841,
+    "has_audio": false,
+    "container": "mp4",
+    "match_id": "pilot-001",
+    "players": {
+      "A": "unknown",
+      "B": "unknown"
+    },
+    "source": "case-video",
+    "domain": "fixed-camera-singles",
+    "redistribution": "private",
+    "registered_at": "2026-08-06T03:54:45+00:00",
+    "status": "registered"
+  },
+  "latest_run": {
+    "run_id": "run_20260806T035445Z_0f3de2",
+    "pipeline_stage": "video_ingest",
+    "pipeline_version": "ingest-0.1.0",
+    "schema_version": "1.0",
+    "status": "completed",
+    "started_at": "2026-08-06T03:54:45+00:00",
+    "completed_at": "2026-08-06T03:54:45+00:00",
+    "input": {
+      "path": "D:\\羽毛球自动化\\example.mp4",
+      "checksum": "2e2258f261aa19d02190f82f0528417229a468fec6c984388d363147398dd557",
+      "size_bytes": 11877982
+    },
+    "output": {
+      "video_id": "vid_2e2258f261aa",
+      "record": "D:\\羽毛球自动化\\data\\videos\\vid_2e2258f261aa.json"
+    },
+    "runtime": {
+      "python": "3.12.13",
+      "platform": "win32"
+    }
+  }
+}

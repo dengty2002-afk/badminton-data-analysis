@@ -1,0 +1,60 @@
+{
+  "strict_gold_hit_overlap": {
+    "fusion_gained": 17,
+    "fusion_lost": 2,
+    "swing_only_hits": 27,
+    "rule_only_hits": 27,
+    "both_hits": 102
+  },
+  "per_video": [
+    {
+      "video_id": "vid_4b1c43adb616",
+      "fusion_gained": 3,
+      "fusion_lost": 0,
+      "swing_only_hits": 4,
+      "rule_only_hits": 4,
+      "both_hits": 18
+    },
+    {
+      "video_id": "vid_a912ea747b50",
+      "fusion_gained": 1,
+      "fusion_lost": 0,
+      "swing_only_hits": 2,
+      "rule_only_hits": 4,
+      "both_hits": 16
+    },
+    {
+      "video_id": "vid_b0177c060820",
+      "fusion_gained": 6,
+      "fusion_lost": 0,
+      "swing_only_hits": 10,
+      "rule_only_hits": 7,
+      "both_hits": 16
+    },
+    {
+      "video_id": "vid_bb4c242a4e03",
+      "fusion_gained": 2,
+      "fusion_lost": 1,
+      "swing_only_hits": 4,
+      "rule_only_hits": 5,
+      "both_hits": 22
+    },
+    {
+      "video_id": "vid_fa14dca5204c",
+      "fusion_gained": 3,
+      "fusion_lost": 1,
+      "swing_only_hits": 5,
+      "rule_only_hits": 4,
+      "both_hits": 12
+    },
+    {
+      "video_id": "vid_fa5007a0980c",
+      "fusion_gained": 2,
+      "fusion_lost": 0,
+      "swing_only_hits": 2,
+      "rule_only_hits": 3,
+      "both_hits": 18
+    }
+  ],
+  "diagnostic_only_no_retuning": true
+}

@@ -1,0 +1,117 @@
+{
+  "top3": [
+    {
+      "config": {
+        "keep_rank": 0.4,
+        "add_evidence": 0.35,
+        "refine": false
+      },
+      "development": {
+        "precision": 0.4968152866242038,
+        "recall": 0.639344262295082,
+        "f1": 0.5591397849462366,
+        "predicted": 157,
+        "gold": 122,
+        "tp": 78,
+        "fp": 79,
+        "fn": 44,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": -3.0
+      },
+      "validation": {
+        "precision": 0.603448275862069,
+        "recall": 0.8536585365853658,
+        "f1": 0.7070707070707071,
+        "predicted": 58,
+        "gold": 41,
+        "tp": 35,
+        "fp": 23,
+        "fn": 6,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 3.0
+      }
+    },
+    {
+      "config": {
+        "keep_rank": 0.0,
+        "add_evidence": 0.2,
+        "refine": false
+      },
+      "development": {
+        "precision": 0.47928994082840237,
+        "recall": 0.6639344262295082,
+        "f1": 0.556701030927835,
+        "predicted": 169,
+        "gold": 122,
+        "tp": 81,
+        "fp": 88,
+        "fn": 41,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": -3.0
+      },
+      "validation": {
+        "precision": 0.5606060606060606,
+        "recall": 0.9024390243902439,
+        "f1": 0.6915887850467289,
+        "predicted": 66,
+        "gold": 41,
+        "tp": 37,
+        "fp": 29,
+        "fn": 4,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 3.0
+      }
+    },
+    {
+      "config": {
+        "keep_rank": 0.0,
+        "add_evidence": 0.35,
+        "refine": false
+      },
+      "development": {
+        "precision": 0.49382716049382713,
+        "recall": 0.6557377049180327,
+        "f1": 0.5633802816901409,
+        "predicted": 162,
+        "gold": 122,
+        "tp": 80,
+        "fp": 82,
+        "fn": 42,
+        "median_absolute_frame_error": 4.0,
+        "median_signed_frame_error": -3.0
+      },
+      "validation": {
+        "precision": 0.5645161290322581,
+        "recall": 0.8536585365853658,
+        "f1": 0.6796116504854369,
+        "predicted": 62,
+        "gold": 41,
+        "tp": 35,
+        "fp": 27,
+        "fn": 6,
+        "median_absolute_frame_error": 3.0,
+        "median_signed_frame_error": 3.0
+      }
+    }
+  ],
+  "baseline_validation": {
+    "precision": 0.5818181818181818,
+    "recall": 0.7804878048780488,
+    "f1": 0.6666666666666666,
+    "predicted": 55,
+    "gold": 41,
+    "tp": 32,
+    "fp": 23,
+    "fn": 9,
+    "median_absolute_frame_error": 3.0,
+    "median_signed_frame_error": 2.0
+  },
+  "selected_fusion": {
+    "keep_rank": 0.4,
+    "add_evidence": 0.35,
+    "refine": false
+  },
+  "validation_gate_passed": true,
+  "deployment_choice": "fusion",
+  "note": "Frozen before regression scoring; no independent blind-test claim."
+}

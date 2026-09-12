@@ -1,0 +1,106 @@
+import { index, integer, real, sqliteTable, text, uniqueIndex } from "drizzle-orm/sqlite-core";
+
+export const calibrations = sqliteTable(
+  "calibrations",
+  {
+    id: text("id").primaryKey(),
+    videoId: text("video_id").notNull(),
+    version: integer("version").notNull(),
+    frameTimeMs: integer("frame_time_ms").notNull(),
+    imageWidth: integer("image_width").notNull(),
+    imageHeight: integer("image_height").notNull(),
+    cornersJson: text("corners_json").notNull(),
+    homographyJson: text("homography_json").notNull(),
+    courtOrientation: text("court_orientation").notNull().default("upper_is_far_side"),
+    qualityStatus: text("quality_status").notNull().default("accepted"),
+    source: text("source").notNull().default("manual"),
+    calibratorId: text("calibrator_id").notNull().default("private-user"),
+    createdAt: text("created_at").notNull(),
+  },
+  (table) => [uniqueIndex("idx_calibrations_video_version").on(table.videoId, table.version)],
+);
+
+export const eventRevisions = sqliteTable(
+  "event_revisions",
+  {
+    id: text("id").primaryKey(),
+    videoId: text("video_id").notNull(),
+    eventId: text("event_id").notNull(),
+    revision: integer("revision").notNull(),
+    candidateFrame: integer("candidate_frame").notNull(),
+    candidateTimeMs: integer("candidate_time_ms").notNull(),
+    rallyId: text("rally_id").notNull().default("Model pilot"),
+    hitter: text("hitter").notNull(),
+    stroke: text("stroke").notNull(),
+    backhand: integer("backhand", { mode: "boolean" }).notNull().default(false),
+    aroundhead: integer("aroundhead", { mode: "boolean" }).notNull().default(false),
+    certainty: text("certainty").notNull().default("确定"),
+    notes: text("notes").notNull().default(""),
+    hitPositionJson: text("hit_position_json"),
+    landingPositionJson: text("landing_position_json"),
+    status: text("status").notNull(),
+    labelSource: text("label_source").notNull().default("machine_review"),
+    machinePredictionJson: text("machine_prediction_json").notNull().default("{}"),
+    annotatorId: text("annotator_id").notNull().default("public-annotator"),
+    reviewerId: text("reviewer_id"),
+    reviewNote: text("review_note"),
+    reviewBaseRevision: integer("review_base_revision"),
+    reviewedAt: text("reviewed_at"),
+    createdAt: text("created_at").notNull(),
+  },
+  (table) => [
+    uniqueIndex("idx_event_revisions_video_event_revision").on(table.videoId, table.eventId, table.revision),
+    index("idx_event_revisions_video_status").on(table.videoId, table.status),
+  ],
+);
+
+export const playerSideAssignments = sqliteTable(
+  "player_side_assignments",
+  {
+    id: text("id").primaryKey(),
+    videoId: text("video_id").notNull(),
+    version: integer("version").notNull(),
+    effectiveFrame: integer("effective_frame").notNull(),
+    effectiveTimeMs: integer("effective_time_ms").notNull(),
+    upperPlayer: text("upper_player").notNull(),
+    lowerPlayer: text("lower_player").notNull(),
+    source: text("source").notNull().default("manual_side_switch"),
+    editorId: text("editor_id").notNull().default("public-annotator"),
+    createdAt: text("created_at").notNull(),
+  },
+  (table) => [
+    uniqueIndex("idx_player_sides_video_version").on(table.videoId, table.version),
+    index("idx_player_sides_video_frame").on(table.videoId, table.effectiveFrame),
+  ],
+);
+
+export const semanticGoldRevisions = sqliteTable(
+  "semantic_gold_revisions",
+  {
+    id: text("id").primaryKey(),
+    videoId: text("video_id").notNull(),
+    anchorId: text("anchor_id").notNull(),
+    revision: integer("revision").notNull(),
+    rallyId: text("rally_id").notNull(),
+    hitFrame: integer("hit_frame").notNull(),
+    hitter: text("hitter").notNull(),
+    strokeType: text("stroke_type").notNull().default(""),
+    landingX: real("landing_x"),
+    landingY: real("landing_y"),
+    landingFrame: integer("landing_frame"),
+    landingKind: text("landing_kind"),
+    landingStatus: text("landing_status").notNull().default("observed"),
+    landingArea: integer("landing_area"),
+    landingAreaSchema: text("landing_area_schema").notNull().default("shuttlelab_9x7_v1"),
+    confidence: text("confidence").notNull().default("high"),
+    uncertaintyFrames: integer("uncertainty_frames").notNull().default(0),
+    notes: text("notes").notNull().default(""),
+    status: text("status").notNull(),
+    annotatorId: text("annotator_id").notNull().default("public-annotator"),
+    createdAt: text("created_at").notNull(),
+  },
+  (table) => [
+    uniqueIndex("idx_semantic_gold_video_anchor_revision").on(table.videoId, table.anchorId, table.revision),
+    index("idx_semantic_gold_video_status").on(table.videoId, table.status),
+  ],
+);
