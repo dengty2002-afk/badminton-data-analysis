@@ -216,7 +216,10 @@ def _accepted_proposal_calibration(proposal_path: Path, video_id: str) -> Path |
         return None
     path = Path(str(raw)).expanduser()
     if not path.is_absolute():
-        path = (proposal_path.parent / path).resolve()
+        path = proposal_path.parent / path
+    # Normalize absolute aliases too (including Windows short temporary paths),
+    # matching the canonical path stored by inference before comparing resumes.
+    path = path.resolve()
     return path if path.is_file() else None
 
 

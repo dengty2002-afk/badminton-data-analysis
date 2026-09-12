@@ -6,6 +6,7 @@ from pathlib import Path
 
 from badminton_pipeline.batch_builder import (
     BatchBuilder,
+    _accepted_proposal_calibration,
     _batch_lock,
     _court_sample_times,
     _mark_derived_source_variants,
@@ -15,6 +16,22 @@ from badminton_pipeline.ingest.register_video import sha256_file
 
 
 class BatchBuilderTests(unittest.TestCase):
+    def test_accepted_proposal_normalizes_absolute_alias_for_resume(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "nested").mkdir()
+            calibration = root / "v1.json"
+            calibration.write_text("{}", encoding="utf-8")
+            proposal = root / "proposal.json"
+            proposal.write_text(json.dumps({
+                "video_id": "vid_test", "accepted": True,
+                "calibration": str(root / "nested" / ".." / "v1.json"),
+            }), encoding="utf-8")
+            self.assertEqual(
+                _accepted_proposal_calibration(proposal, "vid_test"),
+                calibration.resolve(),
+            )
+
     def test_marks_legacy_main_view_duplicate_but_keeps_inventory(self):
         state = {
             "videos": [
